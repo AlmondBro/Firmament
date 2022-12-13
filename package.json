@@ -1,0 +1,21 @@
+{
+  "name": "firmament",
+  "displayName": "firmament",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Firmament",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Firmament-color-theme.json"
+      }
+    ]
+  }
+}
